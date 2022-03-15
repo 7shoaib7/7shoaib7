@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### About me
+-I am a Full-Stack software developer specialized in MERN stack development with Bachelors in Computer Science & Engineering.I am a continuous learner and interested in solving problems with tech
+
 <!--
 **7shoaib7/7shoaib7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
