@@ -15,7 +15,7 @@
 
 #### 👀 Where to find me?
 * [LinkedIn](https://www.linkedin.com/in/shoaib018/)
-* [Email]:shoaibnoman786@gmail.com 
+* Email:shoaibnoman786@gmail.com 
 
 <!--
 **7shoaib7/7shoaib7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
