@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About me
--I am a Full-Stack software developer specialized in MERN stack development with Bachelors in Computer Science & Engineering.I am a continuous learner and interested in solving problems with tech
+-I am a Full-Stack software developer specialized in MERN stack development with a bachelor's in Computer Science & Engineering. I am a continuous learner and interested in solving problems with tech.
 
 #### 💻 Work Experience
 -Working as a Product Developer in Crio.do student developer program. Building features from scratch based on th requirements  
