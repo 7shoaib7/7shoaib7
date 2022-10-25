@@ -3,10 +3,6 @@
 ### About me
 -I am a Full-Stack software developer specialized in MERN stack development with a bachelor's in Computer Science & Engineering. I am a continuous learner and interested in solving problems with tech.
 
-#### 💻 Work Experience
--Working as a Product Developer in Crio.do student developer program. Building features from scratch based on th requirements  
-(Aug 2021 - Present)
-
 #### 🛠️ Relevant Projects
 - [**QKart**](https://qkart-frontend018.netlify.app) : Responsive E-commerce website with functionalities such as Sign-in/Sign-up, Product listing & search, adding products to cart and checkout. Frontend is implemented using React.js and Rest APIs are built using Express.js(Node.js)
 - [**Xflix**](https://xflix-frontend018.netlify.app) : Responsive video sharing/viewing website with functionalities such as search, sort, filter(genre/age) and upload. Frontend is implemented using React.js and Rest APIs are built using Express.js(Node.js). Data is persisted using MongoDB.
