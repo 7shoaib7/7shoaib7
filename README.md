@@ -19,13 +19,13 @@ I am a Full-Stack Software Developer specializing in MERN stack development with
 
 ### 💼 Professional Experience
 - **Associate Software Engineer** at Twinleaves (02/2023 - 05/2024)
-  ◆ Developed data capture mechanisms for client onboarding
-  ◆ Implemented business plan features and secure payment gateways
-  ◆ Collaborated on B2C web application development
+  - ◆ Developed data capture mechanisms for client onboarding
+  - ◆ Implemented business plan features and secure payment gateways
+  = ◆ Collaborated on B2C web application development
 
 - **Crio Fellowship in Software Development** (06/2021 - 04/2022)
-  ◆  Advanced Frontend Development with real-world applications
-  ◆ Hands-on experience with JavaScript and React
+ - ◆  Advanced Frontend Development with real-world applications
+ - ◆ Hands-on experience with JavaScript and React
 
 ### 👀 Where to find me?
 - [LinkedIn](https://www.linkedin.com/in/shoaib018/)
