@@ -4,9 +4,9 @@
 I am a Full-Stack Software Developer specializing in MERN stack development with a bachelor's in Computer Science & Engineering from BIRLA INSTITUTE OF TECHNOLOGY, MESRA. Currently working as an Associate Software Engineer at Twinleaves, I focus on building scalable web applications and enhancing user experiences. I am passionate about continuous learning and solving real-world problems through technology.
 
 ### 🛠️ Relevant Projects
-- [**QKart**](https://qkart-frontend018.netlify.app) : Responsive E-commerce website with functionalities such as Sign-in/Sign-up, Product listing & search, adding products to cart and checkout. Frontend is implemented using React.js and Rest APIs are built using Express.js(Node.js)
+- [**QKart**](https://qkart-frontend018.netlify.app): Responsive E-commerce website with functionalities such as Sign-in/Sign-up, Product listing & search, adding products to cart and checkout. Frontend is implemented using React.js and Rest APIs are built using Express.js(Node.js)
 
-- [**Xflix**](https://xflix-frontend018.netlify.app) : Responsive video sharing/viewing website with functionalities such as search, sort, filter(genre/age) and upload. Frontend is implemented using React.js and Rest APIs are built using Express.js(Node.js). Data is persisted using MongoDB.
+- [**Xflix**](https://xflix-frontend018.netlify.app): Responsive video sharing/viewing website with functionalities such as search, sort, filter(genre/age) and upload. Frontend is implemented using React.js and Rest APIs are built using Express.js(Node.js). Data is persisted using MongoDB.
 
 - [**QTrip**](https://qtrip-dynamic018.netlify.app) : Qtrip is a travel website where users can browse the various Adventures on offer, based on their places of interest and book an Adventure. They can navigate between the pages by clicking on the cards and using the navigation bar. HTML, CSS, and Bootstrap is used to create the frontend.
 
@@ -21,7 +21,7 @@ I am a Full-Stack Software Developer specializing in MERN stack development with
 - **Associate Software Engineer** at Twinleaves (02/2023 - 05/2024)
   - ◆ Developed data capture mechanisms for client onboarding
   - ◆ Implemented business plan features and secure payment gateways
-  = ◆ Collaborated on B2C web application development
+  - ◆ Collaborated on B2C web application development
 
 - **Crio Fellowship in Software Development** (06/2021 - 04/2022)
  - ◆  Advanced Frontend Development with real-world applications
