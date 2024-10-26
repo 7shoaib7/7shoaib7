@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### About me
-I am a Full-Stack software developer specialized in MERN stack development with a bachelor's in Computer Science & Engineering. I am a continuous learner and interested in solving problems with tech.
+I am a Full-Stack Software Developer specializing in MERN stack development with a bachelor's in Computer Science & Engineering from BIRLA INSTITUTE OF TECHNOLOGY, MESRA. Currently working as an Associate Software Engineer at Twinleaves, I focus on building scalable web applications and enhancing user experiences. I am passionate about continuous learning and solving real-world problems through technology.
 
 ### 🛠️ Relevant Projects
 - [**QKart**](https://qkart-frontend018.netlify.app) : Responsive E-commerce website with functionalities such as Sign-in/Sign-up, Product listing & search, adding products to cart and checkout. Frontend is implemented using React.js and Rest APIs are built using Express.js(Node.js)
@@ -19,13 +19,13 @@ I am a Full-Stack software developer specialized in MERN stack development with 
 
 ### 💼 Professional Experience
 - **Associate Software Engineer** at Twinleaves (02/2023 - 05/2024)
- - Developed data capture mechanisms for client onboarding
- - Implemented business plan features and secure payment gateways
- - Collaborated on B2C web application development
+  ◆ Developed data capture mechanisms for client onboarding
+  ◆ Implemented business plan features and secure payment gateways
+  ◆ Collaborated on B2C web application development
 
 - **Crio Fellowship in Software Development** (06/2021 - 04/2022)
- - Advanced Frontend Development with real-world applications
- - Hands-on experience with JavaScript and React
+  ◆  Advanced Frontend Development with real-world applications
+  ◆ Hands-on experience with JavaScript and React
 
 ### 👀 Where to find me?
 - [LinkedIn](https://www.linkedin.com/in/shoaib018/)
